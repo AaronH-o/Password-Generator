@@ -81,6 +81,7 @@ var generatePassword = function() {
     return '';
   }
 
+  // loop until a valid string is created
   do {
     let validPassword = [false, false, false, false];
     // create passwordString

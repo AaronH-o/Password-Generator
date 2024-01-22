@@ -10,6 +10,10 @@ Customizable password generation:
 Specify desired password length.
 Include uppercase and lowercase letters, numbers, and symbols.
 
+## Screenshot
+
+![Password Generator Web App](./assets/screenshot.png)
+
 ## Usage
 
 Access the web app in your browser, at https://aaronh-o.github.io/password-generator/.
